@@ -8,4 +8,4 @@
 
 | Service | Dev | Stage | Prod NA |
 |---------|-----|-------|---------|
-| Control Plane | ![dev](https://github.com/jubinmathew-ibm/test/blob/main/data.svg) | ![stage](https://github.com/jubinmathew-ibm/test/blob/main/data.svg) | ![prod](https://github.com/jubinmathew-ibm/test/blob/main/data.svg) |
+| Control Plane | ![dev](https://github.com/jubinmathew-ibm/test/blob/main/data2.svg) | ![stage](https://github.com/jubinmathew-ibm/test/blob/main/data.svg) | ![prod](https://github.com/jubinmathew-ibm/test/blob/main/data2.svg) |
