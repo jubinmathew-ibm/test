@@ -2,7 +2,7 @@
 
 | Service | Latest Snapshot |
 |---------|-----------------|
-| Control Plane | ![snapshot](https://github.com/jubinmathew-ibm/test/blob/main/data2.html) |
+| Control Plane | ![snapshot](https://github.com/jubinmathew-ibm/test/blob/main/data2.svg) |
 
 [link](https://github.com/jubinmathew-ibm/test/blob/main/data2.html)
 ---
