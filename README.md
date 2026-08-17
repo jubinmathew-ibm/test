@@ -4,7 +4,7 @@
 |---------|-----------------|
 | Control Plane | ![snapshot](https://github.com/jubinmathew-ibm/test/blob/main/data2.svg) |
 
-[link](https://github.com/jubinmathew-ibm/test/blob/main/data2.html)
+## link
 ---
 
 | Service | Dev | Stage | Prod NA |
