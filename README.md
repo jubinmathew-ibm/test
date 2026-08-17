@@ -2,11 +2,11 @@
 
 | Service | Latest Snapshot |
 |---------|-----------------|
-| Control Plane | ![snapshot](https://github.com/jubinmathew-ibm/test/blob/main/data.svg) |
+| Control Plane | ![snapshot](https://github.com/jubinmathew-ibm/test/blob/main/data2.svg) |
 
 ## link
 ---
 
 | Service | Dev | Stage | Prod NA |
 |---------|-----|-------|---------|
-| Control Plane | ![dev](https://github.com/jubinmathew-ibm/test/blob/main/data2.svg) | ![stage](https://github.com/jubinmathew-ibm/test/blob/main/data.svg) | ![prod](https://github.com/jubinmathew-ibm/test/blob/main/data2.svg) |
+| Control Plane | ![dev](https://github.com/jubinmathew-ibm/test/blob/main/data2.svg) | ![stage](https://github.com/jubinmathew-ibm/test/blob/main/data2.svg) | ![prod](https://github.com/jubinmathew-ibm/test/blob/main/data2.svg) |
